@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "description": "Gaming laptop",
+        "price": 45.0,
+        "image_url": "https://example.com/laptop.jpg",
+        "quantity": 15,
+        "created_at": "2025-07-21T12:00:00"
+    },
+    {
+        "id": 2,
+        "name": "Mouse Logitech G203",
+        "description": "Gaming mouse with RGB lights",
+        "price": 45.0,
+        "image_url": "https://example.com/mis.jpg",
+        "quantity": 15,
+        "created_at": "2025-07-21 16:00:00"
+    },
+    {
+        "id": 3,
+        "name": "Gaming Mouse",
+        "description": "High precision mouse",
+        "price": 49.99,
+        "image_url": "https://example.com/mouse.jpg",
+        "quantity": 10,
+        "created_at": "2025-07-22 15:30:00"
+    },
+    {
+        "id": 4,
+        "name": "Mechanical Keyboard",
+        "description": "RGB backlit keyboard",
+        "price": 89.99,
+        "image_url": "https://example.com/keyboard.jpg",
+        "quantity": 5,
+        "created_at": "2025-07-22 15:35:00"
+    }
+]

@@ -1,0 +1,50 @@
+from typing import List
+from fastapi import APIRouter, HTTPException
+from pathlib import Path
+
+from models.product import Product, ProductCreate, ProductUpdate
+from utils.file_io import load_data, save_data
+from services.products_service import (
+    get_products,
+    create_product,
+    create_products_batch,
+    patch_product,
+    delete_product,
+)
+
+
+"""This module contains routes for managing products(CRUD)."""
+
+router = APIRouter()
+DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "products.json"
+
+@router.get("/", response_model=list[Product])
+def get_products_enpoint():
+    """Endpoint that retrieves all products."""
+
+    return get_products(DATA_PATH)
+
+@router.post("/", response_model=Product)
+def create_product_endpoint(product: ProductCreate):
+    """Endpoint that adds a new produtc."""
+
+    return create_product(DATA_PATH, product)
+
+@router.post("/batch", response_model=List[Product])
+def create_products_batch_endpoint(products_in: List[ProductCreate]):
+    """Endpoint that adds multiple new products."""
+
+    return create_products_batch(DATA_PATH, products_in)
+
+@router.patch("/{product_id}", response_model=Product)
+def patch_product_endpoint(product_id: int, patch_data: ProductUpdate):
+    """Partially update a product by ID."""
+    
+    return patch_product(DATA_PATH, product_id, patch_data)
+        
+@router.delete("/{product_id}", status_code=204)
+def delete_product_endpoint(product_id: int):
+    """Delete a product by ID."""
+
+    delete_product(DATA_PATH, product_id)
+    return "Deleted"

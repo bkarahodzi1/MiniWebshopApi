@@ -1,14 +1,10 @@
 from fastapi import FastAPI
+from routes import products
 
 app = FastAPI()
 
-@app.get("/")
-def read_root():
-    return {"Hello": "World"}
+@app.get("/healthz")
+def read_api_health():
+    return {"status": "ok"}
 
-@app.get("/products")
-def get_products():
-    return [
-        {"id": 1, "name": "Laptop", "price": 1200},
-        {"id": 2, "name": "Mouse", "price": 25}
-    ]
+app.include_router(products.router, prefix = "/products", tags = ["products"])
