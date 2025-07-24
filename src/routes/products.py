@@ -1,15 +1,17 @@
-from typing import List
-from fastapi import APIRouter, HTTPException
+from typing import Dict, List, Optional, Literal
+from fastapi import APIRouter, Query
 from pathlib import Path
 
 from models.product import Product, ProductCreate, ProductUpdate
 from utils.file_io import load_data, save_data
 from services.products_service import (
     get_products,
+    get_product,
     create_product,
     create_products_batch,
     patch_product,
     delete_product,
+    get_products_paginated
 )
 
 
@@ -18,11 +20,29 @@ from services.products_service import (
 router = APIRouter()
 DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "products.json"
 
-@router.get("/", response_model=list[Product])
-def get_products_enpoint():
-    """Endpoint that retrieves all products."""
+@router.get("/{product_id}", response_model=Product)
+def get_product_by_id(product_id: int):
 
-    return get_products(DATA_PATH)
+    return get_product(DATA_PATH, product_id) 
+
+@router.get("/")
+def list_products(
+    page: int = Query(1, ge=1),
+    name: Optional[str] = None,
+    min_price: Optional[float] = None,
+    max_price: Optional[float] = None,
+    min_quantity: Optional[int] = None,
+    sort_by: Optional[str] = None
+):
+    return get_products_paginated(
+        DATA_PATH,
+        page=page,
+        name_filter=name,
+        min_price=min_price,
+        max_price=max_price,
+        min_quantity=min_quantity,
+        sort_by=sort_by
+    )
 
 @router.post("/", response_model=Product)
 def create_product_endpoint(product: ProductCreate):
