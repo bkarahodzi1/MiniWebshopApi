@@ -3,7 +3,6 @@ from fastapi import APIRouter, Query
 from pathlib import Path
 
 from models.product import Product, ProductCreate, ProductUpdate
-from utils.file_io import load_data, save_data
 from services.products_service import (
     get_products,
     get_product,

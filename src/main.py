@@ -1,5 +1,5 @@
 from fastapi import FastAPI # type: ignore
-from routes import products
+from routes import products, orders
 from fastapi.middleware.cors import CORSMiddleware
 
 origins = [
@@ -22,3 +22,4 @@ def read_api_health():
     return {"status": "ok"}
 
 app.include_router(products.router, prefix = "/products", tags = ["products"])
+app.include_router(orders.router, prefix = "/orders", tags = ["orders"])

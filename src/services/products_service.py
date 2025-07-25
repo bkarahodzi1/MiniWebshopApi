@@ -11,27 +11,6 @@ from utils.file_io import load_data, save_data
 def get_products(data_path: Path) -> list[Product]:
     return load_data(data_path)
 
-##def get_products_paginated(data_path: Path, page: int = 1, per_page: int = 20) -> dict:
-##    products = load_data(data_path)
-##    total_items = len(products)
-##    total_pages = (total_items + per_page - 1) // per_page
-##
-##    if page < 1 or page > total_pages:
-##        raise HTTPException(status_code=404, detail="Page not found")
-##
-##    start = (page - 1) * per_page
-##    end = start + per_page
-##    paginated_products = products[start:end]
-##
-##    return {
-##        "page": page,
-##        "per_page": per_page,
-##        "total_items": total_items,
-##        "total_pages": total_pages,
-##        "has_next": page < total_pages,
-##        "data": paginated_products
-##    }
-
 def get_product(data_path: Path, product_id: int) -> Product:
     products = load_data(data_path)
     for product in products:
@@ -90,11 +69,14 @@ def get_products_paginated(
     end = start + per_page
     paginated_products = products[start:end]
 
+    low_stock = sum(1 for product in products if product["quantity"] < 10)
+
     return {
         "page": page,
         "per_page": per_page,
         "total_items": total_items,
         "total_pages": total_pages,
+        "low_stock": low_stock,
         "has_next": page < total_pages,
         "data": paginated_products
     }

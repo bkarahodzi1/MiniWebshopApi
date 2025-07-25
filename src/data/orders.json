@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "items": [
+            {
+                "product_id": 34,
+                "quantity": 2,
+                "image": "https://example.com/product_34.jpg",
+                "name": "Product 34",
+                "price": 264.9
+            }
+        ],
+        "created_at": "2025-07-25T13:08:00+00:00",
+        "decision_date": "2025-07-25T17:08:00+00:00",
+        "customer": {
+            "name": "Anthony",
+            "email": "eharris@yahoo.com",
+            "phone": "444-645-8388x89413",
+            "address": "71858 Christopher Trail",
+            "city": "Buchananmouth",
+            "zipCode": "92507"
+        },
+        "total_price": 529.8,
+        "status": "accepted"
+    },
+    {
+        "id": 2,
+        "items": [
+            {
+                "product_id": 50,
+                "quantity": 2,
+                "image": "https://example.com/product_50.jpg",
+                "name": "Product 50",
+                "price": 285.76
+            }
+        ],
+        "created_at": "2025-07-25T13:14:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Victor",
+            "email": "jacksonwilliam@douglas-burgess.com",
+            "phone": "427.184.3397",
+            "address": "76864 Jeffrey Knoll Apt. 668",
+            "city": "Lake Summerport",
+            "zipCode": "45537"
+        },
+        "total_price": 571.52,
+        "status": "accepted"
+    },
+    {
+        "id": 3,
+        "items": [
+            {
+                "product_id": 11,
+                "quantity": 2,
+                "image": "https://example.com/product_11.jpg",
+                "name": "Product 11",
+                "price": 211.73
+            }
+        ],
+        "created_at": "2025-07-25T14:51:00+00:00",
+        "decision_date": "2025-07-26T03:51:00+00:00",
+        "customer": {
+            "name": "Lisa",
+            "email": "walkeremma@farrell.com",
+            "phone": "(561)294-2444x4777",
+            "address": "30328 Porter Point Apt. 630",
+            "city": "Nguyenmouth",
+            "zipCode": "53448"
+        },
+        "total_price": 423.46,
+        "status": "accepted"
+    },
+    {
+        "id": 4,
+        "items": [
+            {
+                "product_id": 8,
+                "quantity": 3,
+                "image": "https://example.com/product_8.jpg",
+                "name": "Product 8",
+                "price": 245.5
+            }
+        ],
+        "created_at": "2025-07-25T16:47:00+00:00",
+        "decision_date": "2025-07-26T01:47:00+00:00",
+        "customer": {
+            "name": "Tammy",
+            "email": "zacharyrobles@yahoo.com",
+            "phone": "+1-323-974-3532x620",
+            "address": "39394 Williams Divide Suite 468",
+            "city": "Jonesstad",
+            "zipCode": "33663"
+        },
+        "total_price": 736.5,
+        "status": "accepted"
+    },
+    {
+        "id": 5,
+        "items": [
+            {
+                "product_id": 7,
+                "quantity": 1,
+                "image": "https://example.com/product_7.jpg",
+                "name": "Product 7",
+                "price": 207.61
+            }
+        ],
+        "created_at": "2025-07-25T12:21:00+00:00",
+        "decision_date": "2025-07-27T11:21:00+00:00",
+        "customer": {
+            "name": "Phillip",
+            "email": "qkent@yahoo.com",
+            "phone": "(302)184-5032x158",
+            "address": "802 Graham Stravenue",
+            "city": "Clarkview",
+            "zipCode": "18357"
+        },
+        "total_price": 207.61,
+        "status": "pending"
+    },
+    {
+        "id": 6,
+        "items": [
+            {
+                "product_id": 4,
+                "quantity": 3,
+                "image": "https://example.com/product_4.jpg",
+                "name": "Product 4",
+                "price": 223.01
+            }
+        ],
+        "created_at": "2025-07-25T16:28:00+00:00",
+        "decision_date": "2025-07-26T07:28:00+00:00",
+        "customer": {
+            "name": "Carlos",
+            "email": "laurentanner@yahoo.com",
+            "phone": "558.396.1167x5053",
+            "address": "0793 Benson Village",
+            "city": "New Maureen",
+            "zipCode": "80765"
+        },
+        "total_price": 669.03,
+        "status": "accepted"
+    },
+    {
+        "id": 7,
+        "items": [
+            {
+                "product_id": 20,
+                "quantity": 1,
+                "image": "https://example.com/product_20.jpg",
+                "name": "Product 20",
+                "price": 255.24
+            }
+        ],
+        "created_at": "2025-07-25T16:27:00+00:00",
+        "decision_date": "2025-07-27T06:27:00+00:00",
+        "customer": {
+            "name": "Mallory",
+            "email": "idawson@johnson-stevens.com",
+            "phone": "+1-317-789-2434x478",
+            "address": "642 Moon Mission Apt. 934",
+            "city": "North Michaelchester",
+            "zipCode": "62018"
+        },
+        "total_price": 255.24,
+        "status": "completed"
+    },
+    {
+        "id": 8,
+        "items": [
+            {
+                "product_id": 37,
+                "quantity": 3,
+                "image": "https://example.com/product_37.jpg",
+                "name": "Product 37",
+                "price": 90.12
+            }
+        ],
+        "created_at": "2025-07-25T13:57:00+00:00",
+        "decision_date": "2025-07-25T20:57:00+00:00",
+        "customer": {
+            "name": "Christine",
+            "email": "ebrewer@yahoo.com",
+            "phone": "053-043-1156x5138",
+            "address": "157 Larry Stream",
+            "city": "Port Jodiville",
+            "zipCode": "41706"
+        },
+        "total_price": 270.36,
+        "status": "accepted"
+    },
+    {
+        "id": 9,
+        "items": [
+            {
+                "product_id": 41,
+                "quantity": 2,
+                "image": "https://example.com/product_41.jpg",
+                "name": "Product 41",
+                "price": 286.1
+            }
+        ],
+        "created_at": "2025-07-25T15:30:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Edward",
+            "email": "tortega@davis.com",
+            "phone": "+1-249-158-3300x780",
+            "address": "9798 Richardson Fall",
+            "city": "Cherylmouth",
+            "zipCode": "68690"
+        },
+        "total_price": 572.2,
+        "status": "rejected"
+    },
+    {
+        "id": 10,
+        "items": [
+            {
+                "product_id": 8,
+                "quantity": 2,
+                "image": "https://example.com/product_8.jpg",
+                "name": "Product 8",
+                "price": 245.5
+            }
+        ],
+        "created_at": "2025-07-25T16:14:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Anthony",
+            "email": "elizabethhansen@hernandez.net",
+            "phone": "260.382.7410",
+            "address": "497 Simon Drives Apt. 350",
+            "city": "North Shelby",
+            "zipCode": "10886"
+        },
+        "total_price": 491.0,
+        "status": "rejected"
+    },
+    {
+        "id": 11,
+        "items": [
+            {
+                "product_id": 17,
+                "quantity": 2,
+                "image": "https://example.com/product_17.jpg",
+                "name": "Product 17",
+                "price": 289.22
+            }
+        ],
+        "created_at": "2025-07-25T13:01:00+00:00",
+        "decision_date": "2025-07-27T01:01:00+00:00",
+        "customer": {
+            "name": "Christopher",
+            "email": "lelauren@hotmail.com",
+            "phone": "001-698-403-7854x4185",
+            "address": "86768 Williams Plaza",
+            "city": "Lindaport",
+            "zipCode": "05876"
+        },
+        "total_price": 578.44,
+        "status": "accepted"
+    },
+    {
+        "id": 12,
+        "items": [
+            {
+                "product_id": 10,
+                "quantity": 3,
+                "image": "https://example.com/product_10.jpg",
+                "name": "Product 10",
+                "price": 134.91
+            }
+        ],
+        "created_at": "2025-07-25T12:09:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Joy",
+            "email": "hinesmichael@gonzales-calhoun.com",
+            "phone": "831.853.9654x136",
+            "address": "1231 Lynn Plains Suite 720",
+            "city": "New Daniel",
+            "zipCode": "33640"
+        },
+        "total_price": 404.73,
+        "status": "accepted"
+    },
+    {
+        "id": 13,
+        "items": [
+            {
+                "product_id": 10,
+                "quantity": 2,
+                "image": "https://example.com/product_10.jpg",
+                "name": "Product 10",
+                "price": 134.91
+            }
+        ],
+        "created_at": "2025-07-25T15:24:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Steven",
+            "email": "katietaylor@velazquez.com",
+            "phone": "985.555.6656x32762",
+            "address": "75397 Kelsey Trafficway Apt. 397",
+            "city": "North James",
+            "zipCode": "72166"
+        },
+        "total_price": 269.82,
+        "status": "completed"
+    },
+    {
+        "id": 14,
+        "items": [
+            {
+                "product_id": 19,
+                "quantity": 3,
+                "image": "https://example.com/product_19.jpg",
+                "name": "Product 19",
+                "price": 212.79
+            }
+        ],
+        "created_at": "2025-07-25T16:50:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Carlos",
+            "email": "raymondjohnson@delacruz.info",
+            "phone": "001-561-665-7379x19749",
+            "address": "188 Martinez Trail Apt. 417",
+            "city": "Brownstad",
+            "zipCode": "70106"
+        },
+        "total_price": 638.37,
+        "status": "completed"
+    },
+    {
+        "id": 15,
+        "items": [
+            {
+                "product_id": 36,
+                "quantity": 2,
+                "image": "https://example.com/product_36.jpg",
+                "name": "Product 36",
+                "price": 263.26
+            }
+        ],
+        "created_at": "2025-07-25T14:46:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Noah",
+            "email": "mataeric@gmail.com",
+            "phone": "765-261-3059x83287",
+            "address": "2865 Hudson Key",
+            "city": "Jessicafort",
+            "zipCode": "71182"
+        },
+        "total_price": 526.52,
+        "status": "accepted"
+    },
+    {
+        "id": 16,
+        "items": [
+            {
+                "product_id": 2,
+                "quantity": 2,
+                "image": "https://example.com/product_2.jpg",
+                "name": "Product 2",
+                "price": 145.88
+            }
+        ],
+        "created_at": "2025-07-25T16:47:00+00:00",
+        "decision_date": "2025-07-27T06:47:00+00:00",
+        "customer": {
+            "name": "Lynn",
+            "email": "james95@porter.info",
+            "phone": "663-327-1006",
+            "address": "02791 Amy Underpass",
+            "city": "Crystalmouth",
+            "zipCode": "14333"
+        },
+        "total_price": 291.76,
+        "status": "rejected"
+    },
+    {
+        "id": 17,
+        "items": [
+            {
+                "product_id": 5,
+                "quantity": 2,
+                "image": "https://example.com/product_5.jpg",
+                "name": "Product 5",
+                "price": 62.9
+            }
+        ],
+        "created_at": "2025-07-25T16:12:00+00:00",
+        "decision_date": "2025-07-26T20:12:00+00:00",
+        "customer": {
+            "name": "Mark",
+            "email": "carlsonmonica@yahoo.com",
+            "phone": "+1-979-328-0756x084",
+            "address": "60376 Denise Isle Apt. 081",
+            "city": "Joshuaberg",
+            "zipCode": "78705"
+        },
+        "total_price": 125.8,
+        "status": "rejected"
+    },
+    {
+        "id": 18,
+        "items": [
+            {
+                "product_id": 50,
+                "quantity": 3,
+                "image": "https://example.com/product_50.jpg",
+                "name": "Product 50",
+                "price": 285.76
+            }
+        ],
+        "created_at": "2025-07-25T13:00:00+00:00",
+        "decision_date": "2025-07-26T00:00:00+00:00",
+        "customer": {
+            "name": "Molly",
+            "email": "douglaslane@hotmail.com",
+            "phone": "(537)304-5803",
+            "address": "22082 Summers Courts Apt. 067",
+            "city": "New Regina",
+            "zipCode": "81168"
+        },
+        "total_price": 857.28,
+        "status": "completed"
+    },
+    {
+        "id": 19,
+        "items": [
+            {
+                "product_id": 22,
+                "quantity": 3,
+                "image": "https://example.com/product_22.jpg",
+                "name": "Product 22",
+                "price": 151.92
+            }
+        ],
+        "created_at": "2025-07-25T14:43:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Michael",
+            "email": "amber02@brown.com",
+            "phone": "(599)136-9092x275",
+            "address": "58749 Hale Haven",
+            "city": "Debbiestad",
+            "zipCode": "03301"
+        },
+        "total_price": 455.76,
+        "status": "accepted"
+    },
+    {
+        "id": 20,
+        "items": [
+            {
+                "product_id": 32,
+                "quantity": 2,
+                "image": "https://example.com/product_32.jpg",
+                "name": "Product 32",
+                "price": 190.2
+            }
+        ],
+        "created_at": "2025-07-25T14:38:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Andrew",
+            "email": "stewartsamuel@vasquez-hurst.info",
+            "phone": "+1-551-169-3596x8847",
+            "address": "701 Bass Flats Suite 214",
+            "city": "Munozmouth",
+            "zipCode": "18798"
+        },
+        "total_price": 380.4,
+        "status": "pending"
+    },
+    {
+        "id": 21,
+        "items": [
+            {
+                "product_id": 33,
+                "quantity": 2,
+                "image": "https://example.com/product_33.jpg",
+                "name": "Product 33",
+                "price": 117.98
+            }
+        ],
+        "created_at": "2025-07-25T14:54:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Sara",
+            "email": "fcarpenter@fisher-owens.net",
+            "phone": "+1-075-320-5748x92275",
+            "address": "8122 Roberts Gardens Apt. 959",
+            "city": "Johnsonport",
+            "zipCode": "54810"
+        },
+        "total_price": 235.96,
+        "status": "pending"
+    },
+    {
+        "id": 22,
+        "items": [
+            {
+                "product_id": 39,
+                "quantity": 3,
+                "image": "https://example.com/product_39.jpg",
+                "name": "Product 39",
+                "price": 73.7
+            }
+        ],
+        "created_at": "2025-07-25T16:23:00+00:00",
+        "decision_date": "2025-07-27T02:23:00+00:00",
+        "customer": {
+            "name": "Deborah",
+            "email": "dthompson@hotmail.com",
+            "phone": "565.083.4872",
+            "address": "7129 Crystal Shore",
+            "city": "Sydneyfort",
+            "zipCode": "30476"
+        },
+        "total_price": 221.1,
+        "status": "pending"
+    },
+    {
+        "id": 23,
+        "items": [
+            {
+                "product_id": 4,
+                "quantity": 2,
+                "image": "https://example.com/product_4.jpg",
+                "name": "Product 4",
+                "price": 223.01
+            }
+        ],
+        "created_at": "2025-07-25T13:24:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Nicole",
+            "email": "vjones@smith.com",
+            "phone": "580.831.0861",
+            "address": "9281 Robert Lodge",
+            "city": "East Sharonberg",
+            "zipCode": "30300"
+        },
+        "total_price": 446.02,
+        "status": "pending"
+    },
+    {
+        "id": 24,
+        "items": [
+            {
+                "product_id": 18,
+                "quantity": 1,
+                "image": "https://example.com/product_18.jpg",
+                "name": "Product 18",
+                "price": 87.58
+            }
+        ],
+        "created_at": "2025-07-25T12:28:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Adam",
+            "email": "rojasbryan@yahoo.com",
+            "phone": "5806352806",
+            "address": "712 Thomas Mission Suite 793",
+            "city": "Pottermouth",
+            "zipCode": "80007"
+        },
+        "total_price": 87.58,
+        "status": "accepted"
+    },
+    {
+        "id": 25,
+        "items": [
+            {
+                "product_id": 15,
+                "quantity": 2,
+                "image": "https://example.com/product_15.jpg",
+                "name": "Product 15",
+                "price": 231.62
+            }
+        ],
+        "created_at": "2025-07-25T12:44:00+00:00",
+        "decision_date": "2025-07-27T07:44:00+00:00",
+        "customer": {
+            "name": "Matthew",
+            "email": "charles08@gmail.com",
+            "phone": "+1-238-841-6363",
+            "address": "82755 Mandy Union Suite 684",
+            "city": "Lake Jonathanborough",
+            "zipCode": "77757"
+        },
+        "total_price": 463.24,
+        "status": "pending"
+    },
+    {
+        "id": 26,
+        "items": [
+            {
+                "product_id": 21,
+                "quantity": 1,
+                "image": "https://example.com/product_21.jpg",
+                "name": "Product 21",
+                "price": 225.12
+            }
+        ],
+        "created_at": "2025-07-25T13:20:00+00:00",
+        "decision_date": "2025-07-26T15:20:00+00:00",
+        "customer": {
+            "name": "William",
+            "email": "rrios@hotmail.com",
+            "phone": "(880)711-3174x209",
+            "address": "4271 Crystal Junctions",
+            "city": "Bradyshire",
+            "zipCode": "26092"
+        },
+        "total_price": 225.12,
+        "status": "pending"
+    },
+    {
+        "id": 27,
+        "items": [
+            {
+                "product_id": 29,
+                "quantity": 2,
+                "image": "https://example.com/product_29.jpg",
+                "name": "Product 29",
+                "price": 238.57
+            }
+        ],
+        "created_at": "2025-07-25T16:16:00+00:00",
+        "decision_date": "2025-07-26T12:16:00+00:00",
+        "customer": {
+            "name": "Michael",
+            "email": "whunter@mccormick.com",
+            "phone": "233.974.7564x49810",
+            "address": "6491 Jenna Hill",
+            "city": "Crystalshire",
+            "zipCode": "57242"
+        },
+        "total_price": 477.14,
+        "status": "accepted"
+    },
+    {
+        "id": 28,
+        "items": [
+            {
+                "product_id": 46,
+                "quantity": 1,
+                "image": "https://example.com/product_46.jpg",
+                "name": "Product 46",
+                "price": 59.25
+            }
+        ],
+        "created_at": "2025-07-25T13:45:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Patricia",
+            "email": "ryan99@rodriguez.org",
+            "phone": "6457471717",
+            "address": "69446 Ramos Stream Suite 263",
+            "city": "Matthewsside",
+            "zipCode": "13081"
+        },
+        "total_price": 59.25,
+        "status": "rejected"
+    },
+    {
+        "id": 29,
+        "items": [
+            {
+                "product_id": 46,
+                "quantity": 3,
+                "image": "https://example.com/product_46.jpg",
+                "name": "Product 46",
+                "price": 59.25
+            }
+        ],
+        "created_at": "2025-07-25T13:23:00+00:00",
+        "decision_date": "2025-07-26T15:23:00+00:00",
+        "customer": {
+            "name": "Norma",
+            "email": "danielsdonna@hotmail.com",
+            "phone": "001-338-664-2062",
+            "address": "1895 Gonzales Springs Suite 087",
+            "city": "West Gina",
+            "zipCode": "31524"
+        },
+        "total_price": 177.75,
+        "status": "pending"
+    },
+    {
+        "id": 30,
+        "items": [
+            {
+                "product_id": 23,
+                "quantity": 1,
+                "image": "https://example.com/product_23.jpg",
+                "name": "Product 23",
+                "price": 78.03
+            }
+        ],
+        "created_at": "2025-07-25T12:21:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "David",
+            "email": "thomaslevy@gmail.com",
+            "phone": "001-280-635-8638x951",
+            "address": "7561 Christina Underpass Suite 819",
+            "city": "Ortizville",
+            "zipCode": "96415"
+        },
+        "total_price": 78.03,
+        "status": "accepted"
+    },
+    {
+        "id": 31,
+        "items": [
+            {
+                "product_id": 29,
+                "quantity": 1,
+                "image": "https://example.com/product_29.jpg",
+                "name": "Product 29",
+                "price": 238.57
+            }
+        ],
+        "created_at": "2025-07-25T15:40:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "John",
+            "email": "cindy33@gonzalez-lewis.info",
+            "phone": "+1-591-684-9402x145",
+            "address": "0227 Kevin Ramp",
+            "city": "Port Clarence",
+            "zipCode": "01011"
+        },
+        "total_price": 238.57,
+        "status": "rejected"
+    },
+    {
+        "id": 32,
+        "items": [
+            {
+                "product_id": 6,
+                "quantity": 1,
+                "image": "https://example.com/product_6.jpg",
+                "name": "Product 6",
+                "price": 259.12
+            }
+        ],
+        "created_at": "2025-07-25T14:48:00+00:00",
+        "decision_date": "2025-07-26T23:48:00+00:00",
+        "customer": {
+            "name": "David",
+            "email": "mccormickthomas@hotmail.com",
+            "phone": "(734)912-5716",
+            "address": "768 Pedro Estates",
+            "city": "West April",
+            "zipCode": "57529"
+        },
+        "total_price": 259.12,
+        "status": "accepted"
+    },
+    {
+        "id": 33,
+        "items": [
+            {
+                "product_id": 35,
+                "quantity": 3,
+                "image": "https://example.com/product_35.jpg",
+                "name": "Product 35",
+                "price": 298.88
+            }
+        ],
+        "created_at": "2025-07-25T14:48:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Matthew",
+            "email": "psmith@johnson-freeman.com",
+            "phone": "+1-891-143-2147x576",
+            "address": "178 Deanna Locks",
+            "city": "Leonardfort",
+            "zipCode": "30146"
+        },
+        "total_price": 896.64,
+        "status": "pending"
+    },
+    {
+        "id": 34,
+        "items": [
+            {
+                "product_id": 28,
+                "quantity": 1,
+                "image": "https://example.com/product_28.jpg",
+                "name": "Product 28",
+                "price": 62.33
+            }
+        ],
+        "created_at": "2025-07-25T16:53:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Jillian",
+            "email": "mark63@hotmail.com",
+            "phone": "896-128-6875x3620",
+            "address": "3762 Powell Parkway",
+            "city": "Lindsayburgh",
+            "zipCode": "57450"
+        },
+        "total_price": 62.33,
+        "status": "pending"
+    },
+    {
+        "id": 35,
+        "items": [
+            {
+                "product_id": 48,
+                "quantity": 3,
+                "image": "https://example.com/product_48.jpg",
+                "name": "Product 48",
+                "price": 218.25
+            }
+        ],
+        "created_at": "2025-07-25T12:09:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Bryan",
+            "email": "kaylabryant@gmail.com",
+            "phone": "(950)219-8012x74436",
+            "address": "10965 Ellison Burgs Suite 467",
+            "city": "Lake Jonathan",
+            "zipCode": "85536"
+        },
+        "total_price": 654.75,
+        "status": "rejected"
+    },
+    {
+        "id": 36,
+        "items": [
+            {
+                "product_id": 13,
+                "quantity": 1,
+                "image": "https://example.com/product_13.jpg",
+                "name": "Product 13",
+                "price": 114.9
+            }
+        ],
+        "created_at": "2025-07-25T15:15:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Carla",
+            "email": "erikmcdaniel@howard.com",
+            "phone": "001-309-350-9364x3360",
+            "address": "5924 Eric Plain",
+            "city": "Port Williamside",
+            "zipCode": "55358"
+        },
+        "total_price": 114.9,
+        "status": "pending"
+    },
+    {
+        "id": 37,
+        "items": [
+            {
+                "product_id": 27,
+                "quantity": 2,
+                "image": "https://example.com/product_27.jpg",
+                "name": "Product 27",
+                "price": 127.98
+            }
+        ],
+        "created_at": "2025-07-25T14:31:00+00:00",
+        "decision_date": "2025-07-26T06:31:00+00:00",
+        "customer": {
+            "name": "Kevin",
+            "email": "vadkins@yahoo.com",
+            "phone": "(385)770-4030x4541",
+            "address": "250 Jacob Fall",
+            "city": "Randymouth",
+            "zipCode": "44759"
+        },
+        "total_price": 255.96,
+        "status": "rejected"
+    },
+    {
+        "id": 38,
+        "items": [
+            {
+                "product_id": 24,
+                "quantity": 1,
+                "image": "https://example.com/product_24.jpg",
+                "name": "Product 24",
+                "price": 192.82
+            }
+        ],
+        "created_at": "2025-07-25T12:46:00+00:00",
+        "decision_date": "2025-07-26T20:46:00+00:00",
+        "customer": {
+            "name": "Kenneth",
+            "email": "brianlittle@yahoo.com",
+            "phone": "+1-134-675-2509x6210",
+            "address": "9833 Cook Pass",
+            "city": "Jasonshire",
+            "zipCode": "90477"
+        },
+        "total_price": 192.82,
+        "status": "accepted"
+    },
+    {
+        "id": 39,
+        "items": [
+            {
+                "product_id": 21,
+                "quantity": 2,
+                "image": "https://example.com/product_21.jpg",
+                "name": "Product 21",
+                "price": 225.12
+            }
+        ],
+        "created_at": "2025-07-25T14:36:00+00:00",
+        "decision_date": "2025-07-27T02:36:00+00:00",
+        "customer": {
+            "name": "Shawn",
+            "email": "zacharyhubbard@yahoo.com",
+            "phone": "842-828-7976",
+            "address": "366 Edwards Row Suite 626",
+            "city": "Paigefort",
+            "zipCode": "35415"
+        },
+        "total_price": 450.24,
+        "status": "rejected"
+    },
+    {
+        "id": 40,
+        "items": [
+            {
+                "product_id": 4,
+                "quantity": 2,
+                "image": "https://example.com/product_4.jpg",
+                "name": "Product 4",
+                "price": 223.01
+            }
+        ],
+        "created_at": "2025-07-25T14:02:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Cynthia",
+            "email": "joseph23@roth.com",
+            "phone": "+1-184-497-0750x240",
+            "address": "620 Blankenship Route Apt. 938",
+            "city": "South Joseberg",
+            "zipCode": "90757"
+        },
+        "total_price": 446.02,
+        "status": "completed"
+    },
+    {
+        "id": 41,
+        "items": [
+            {
+                "product_id": 36,
+                "quantity": 3,
+                "image": "https://example.com/product_36.jpg",
+                "name": "Product 36",
+                "price": 263.26
+            }
+        ],
+        "created_at": "2025-07-25T16:17:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Daniel",
+            "email": "carlostaylor@neal.info",
+            "phone": "+1-516-020-1400x76473",
+            "address": "515 Albert Cape",
+            "city": "Conradtown",
+            "zipCode": "23066"
+        },
+        "total_price": 789.78,
+        "status": "rejected"
+    },
+    {
+        "id": 42,
+        "items": [
+            {
+                "product_id": 40,
+                "quantity": 2,
+                "image": "https://example.com/product_40.jpg",
+                "name": "Product 40",
+                "price": 182.9
+            }
+        ],
+        "created_at": "2025-07-25T14:36:00+00:00",
+        "decision_date": null,
+        "customer": {
+            "name": "Walter",
+            "email": "andrewosborn@hotmail.com",
+            "phone": "+1-920-531-8865",
+            "address": "97769 Johnson Falls",
+            "city": "Michellemouth",
+            "zipCode": "51695"
+        },
+        "total_price": 365.8,
+        "status": "accepted"
+    },
+    {
+        "id": 43,
+        "items": [
+            {
+                "product_id": 31,
+                "quantity": 3,
+                "image": "https://example.com/product_31.jpg",
+                "name": "Product 31",
+                "price": 93.08
+            }
+        ],
+        "created_at": "2025-07-25T16:33:00+00:00",
+        "decision_date": "2025-07-27T07:33:00+00:00",
+        "customer": {
+            "name": "Dean",
+            "email": "stephen15@russell.com",
+            "phone": "439.741.1944x31615",
+            "address": "2332 Pierce Hills",
+            "city": "Pinedachester",
+            "zipCode": "63451"
+        },
+        "total_price": 279.24,
+        "status": "rejected"
+    },
+    {
+        "id": 44,
+        "items": [
+            {
+                "product_id": 35,
+                "quantity": 2,
+                "image": "https://example.com/product_35.jpg",
+                "name": "Product 35",
+                "price": 298.88
+            }
+        ],
+        "created_at": "2025-07-25T16:46:00+00:00",
+        "decision_date": "2025-07-26T12:46:00+00:00",
+        "customer": {
+            "name": "Theresa",
+            "email": "slarson@rhodes.com",
+            "phone": "(604)088-1887",
+            "address": "2244 Werner Junctions Suite 054",
+            "city": "South Francis",
+            "zipCode": "09678"
+        },
+        "total_price": 597.76,
+        "status": "completed"
+    },
+    {
+        "id": 45,
+        "items": [
+            {
+                "product_id": 13,
+                "quantity": 1,
+                "image": "https://example.com/product_13.jpg",
+                "name": "Product 13",
+                "price": 114.9
+            }
+        ],
+        "created_at": "2025-07-25T13:04:00+00:00",
+        "decision_date": "2025-07-25T16:04:00+00:00",
+        "customer": {
+            "name": "Phillip",
+            "email": "lewistyler@crawford.com",
+            "phone": "(803)792-4397x9439",
+            "address": "43552 John Brooks",
+            "city": "Lake Tiffany",
+            "zipCode": "60531"
+        },
+        "total_price": 114.9,
+        "status": "completed"
+    },
+    {
+        "id": 46,
+        "items": [
+            {
+                "product_id": 34,
+                "quantity": 2,
+                "image": "https://example.com/product_34.jpg",
+                "name": "Product 34",
+                "price": 264.9
+            }
+        ],
+        "created_at": "2025-07-25T15:44:00+00:00",
+        "decision_date": "2025-07-25T21:44:00+00:00",
+        "customer": {
+            "name": "Peter",
+            "email": "xcannon@yahoo.com",
+            "phone": "(386)620-2218",
+            "address": "5683 Owens Ridges Apt. 715",
+            "city": "Owenburgh",
+            "zipCode": "43079"
+        },
+        "total_price": 529.8,
+        "status": "pending"
+    },
+    {
+        "id": 47,
+        "items": [
+            {
+                "product_id": 12,
+                "quantity": 3,
+                "image": "https://example.com/product_12.jpg",
+                "name": "Product 12",
+                "price": 219.6
+            }
+        ],
+        "created_at": "2025-07-25T12:52:00+00:00",
+        "decision_date": "2025-07-26T06:52:00+00:00",
+        "customer": {
+            "name": "Laura",
+            "email": "donald59@hotmail.com",
+            "phone": "431.064.3054",
+            "address": "66045 Christopher Views Apt. 891",
+            "city": "Scottport",
+            "zipCode": "01270"
+        },
+        "total_price": 658.8,
+        "status": "accepted"
+    },
+    {
+        "id": 48,
+        "items": [
+            {
+                "product_id": 23,
+                "quantity": 1,
+                "image": "https://example.com/product_23.jpg",
+                "name": "Product 23",
+                "price": 78.03
+            }
+        ],
+        "created_at": "2025-07-25T12:30:00+00:00",
+        "decision_date": "2025-07-26T09:30:00+00:00",
+        "customer": {
+            "name": "Christopher",
+            "email": "armstrongsamantha@hotmail.com",
+            "phone": "001-100-982-1324",
+            "address": "3001 Robert Fields Apt. 433",
+            "city": "Rachelport",
+            "zipCode": "30477"
+        },
+        "total_price": 78.03,
+        "status": "accepted"
+    },
+    {
+        "id": 49,
+        "items": [
+            {
+                "product_id": 8,
+                "quantity": 3,
+                "image": "https://example.com/product_8.jpg",
+                "name": "Product 8",
+                "price": 245.5
+            }
+        ],
+        "created_at": "2025-07-25T13:38:00+00:00",
+        "decision_date": "2025-07-27T06:38:00+00:00",
+        "customer": {
+            "name": "Sean",
+            "email": "lmills@hotmail.com",
+            "phone": "723-033-9890x4436",
+            "address": "20887 Dana Green",
+            "city": "Port Kimberlyland",
+            "zipCode": "42345"
+        },
+        "total_price": 736.5,
+        "status": "completed"
+    },
+    {
+        "id": 50,
+        "items": [
+            {
+                "product_id": 40,
+                "quantity": 3,
+                "image": "https://example.com/product_40.jpg",
+                "name": "Product 40",
+                "price": 182.9
+            }
+        ],
+        "created_at": "2025-07-25T12:24:00+00:00",
+        "decision_date": "2025-07-26T09:24:00+00:00",
+        "customer": {
+            "name": "Justin",
+            "email": "bonnieking@yahoo.com",
+            "phone": "819-246-9534x8719",
+            "address": "27176 Woodward Mall",
+            "city": "East Dawn",
+            "zipCode": "98844"
+        },
+        "total_price": 548.7,
+        "status": "completed"
+    }
+]
