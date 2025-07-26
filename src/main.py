@@ -3,9 +3,8 @@ from routes import products, orders
 from fastapi.middleware.cors import CORSMiddleware
 
 origins = [
-    "http://localhost:5173",  # React default
-    "http://localhost:3000",  # if using a different port
-    # Add any other frontend URLs here
+    "http://localhost:5173",  
+    "http://localhost:3000",  
 ]
 
 app = FastAPI()

@@ -437,7 +437,7 @@
         "description": "HD webcam with microphone",
         "price": 254.59,
         "image_url": "https://example.com/webcam.jpg",
-        "quantity": 30,
+        "quantity": 3,
         "created_at": "2025-07-07T15:00:00"
     },
     {
@@ -446,7 +446,7 @@
         "description": "High-precision wireless mouse",
         "price": 49.99,
         "image_url": "https://example.com/images/mouse.jpg",
-        "quantity": 25,
+        "quantity": 2,
         "created_at": "2025-07-23 16:30:00"
     }
 ]
