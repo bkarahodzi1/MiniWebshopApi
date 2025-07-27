@@ -10,6 +10,7 @@ from services.orders_service import (
     get_order,
     patch_order
 )
+from utils.email_utils import send_email
 
 """This module contains routes for managing products(CRUD)."""
 
