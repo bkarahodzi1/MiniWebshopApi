@@ -47,7 +47,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 4. Setting Up Gmail for Sending Emails from FastAPI
+### 4. Setting Up Gmail for Sending Emails from FastAPI
 
 1. Log in to your Gmail account (the one you'll use to send emails from FastAPI).
 
