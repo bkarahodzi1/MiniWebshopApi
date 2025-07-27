@@ -1,452 +1,452 @@
 [
-    {
-        "id": 1,
-        "name": "Webcam 311",
-        "description": "HD webcam with microphone",
-        "price": 274.5,
-        "image_url": "https://example.com/webcam.jpg",
-        "quantity": 39,
-        "created_at": "2025-07-01T12:00:00"
-    },
-    {
-        "id": 2,
-        "name": "Laptop 638",
-        "description": "High performance laptop",
-        "price": 38.41,
-        "image_url": "https://example.com/laptop.jpg",
-        "quantity": 3,
-        "created_at": "2025-07-01T15:00:00"
-    },
-    {
-        "id": 3,
-        "name": "Laptop 722",
-        "description": "High performance laptop",
-        "price": 65.27,
-        "image_url": "https://example.com/laptop.jpg",
-        "quantity": 2,
-        "created_at": "2025-07-01T18:00:00"
-    },
-    {
-        "id": 4,
-        "name": "Webcam 952",
-        "description": "HD webcam with microphone",
-        "price": 265.68,
-        "image_url": "https://example.com/webcam.jpg",
-        "quantity": 45,
-        "created_at": "2025-07-01T21:00:00"
-    },
-    {
-        "id": 5,
-        "name": "Chair 112",
-        "description": "Ergonomic gaming chair",
-        "price": 95.35,
-        "image_url": "https://example.com/chair.jpg",
-        "quantity": 49,
-        "created_at": "2025-07-02T00:00:00"
-    },
-    {
-        "id": 6,
-        "name": "Chair 399",
-        "description": "Ergonomic gaming chair",
-        "price": 149.37,
-        "image_url": "https://example.com/chair.jpg",
-        "quantity": 38,
-        "created_at": "2025-07-02T03:00:00"
-    },
-    {
-        "id": 7,
-        "name": "Speakers 191",
-        "description": "2.1 speaker system",
-        "price": 143.18,
-        "image_url": "https://example.com/speakers.jpg",
-        "quantity": 25,
-        "created_at": "2025-07-02T06:00:00"
-    },
-    {
-        "id": 8,
-        "name": "Microphone 832",
-        "description": "Condenser microphone",
-        "price": 36.08,
-        "image_url": "https://example.com/microphone.jpg",
-        "quantity": 14,
-        "created_at": "2025-07-02T09:00:00"
-    },
-    {
-        "id": 9,
-        "name": "Webcam 984",
-        "description": "HD webcam with microphone",
-        "price": 174.25,
-        "image_url": "https://example.com/webcam.jpg",
-        "quantity": 21,
-        "created_at": "2025-07-02T12:00:00"
-    },
-    {
-        "id": 10,
-        "name": "Chair 324",
-        "description": "Ergonomic gaming chair",
-        "price": 230.5,
-        "image_url": "https://example.com/chair.jpg",
-        "quantity": 24,
-        "created_at": "2025-07-02T15:00:00"
-    },
-    {
-        "id": 11,
-        "name": "Speakers 494",
-        "description": "2.1 speaker system",
-        "price": 152.62,
-        "image_url": "https://example.com/speakers.jpg",
-        "quantity": 41,
-        "created_at": "2025-07-02T18:00:00"
-    },
-    {
-        "id": 12,
-        "name": "Headset 469",
-        "description": "Surround sound gaming headset",
-        "price": 280.18,
-        "image_url": "https://example.com/headset.jpg",
-        "quantity": 46,
-        "created_at": "2025-07-02T21:00:00"
-    },
-    {
-        "id": 13,
-        "name": "Mouse 408",
-        "description": "Precision optical mouse",
-        "price": 296.16,
-        "image_url": "https://example.com/mouse.jpg",
-        "quantity": 26,
-        "created_at": "2025-07-03T00:00:00"
-    },
-    {
-        "id": 14,
-        "name": "Keyboard 438",
-        "description": "Mechanical keyboard with RGB",
-        "price": 228.51,
-        "image_url": "https://example.com/keyboard.jpg",
-        "quantity": 45,
-        "created_at": "2025-07-03T03:00:00"
-    },
-    {
-        "id": 15,
-        "name": "Chair 431",
-        "description": "Ergonomic gaming chair",
-        "price": 151.14,
-        "image_url": "https://example.com/chair.jpg",
-        "quantity": 14,
-        "created_at": "2025-07-03T06:00:00"
-    },
-    {
-        "id": 16,
-        "name": "Speakers 170",
-        "description": "2.1 speaker system",
-        "price": 232.23,
-        "image_url": "https://example.com/speakers.jpg",
-        "quantity": 16,
-        "created_at": "2025-07-03T09:00:00"
-    },
-    {
-        "id": 17,
-        "name": "Chair 226",
-        "description": "Ergonomic gaming chair",
-        "price": 106.27,
-        "image_url": "https://example.com/chair.jpg",
-        "quantity": 43,
-        "created_at": "2025-07-03T12:00:00"
-    },
-    {
-        "id": 18,
-        "name": "Desk 747",
-        "description": "Adjustable height desk",
-        "price": 20.2,
-        "image_url": "https://example.com/desk.jpg",
-        "quantity": 48,
-        "created_at": "2025-07-03T15:00:00"
-    },
-    {
-        "id": 19,
-        "name": "Speakers 201",
-        "description": "2.1 speaker system",
-        "price": 250.66,
-        "image_url": "https://example.com/speakers.jpg",
-        "quantity": 15,
-        "created_at": "2025-07-03T18:00:00"
-    },
-    {
-        "id": 20,
-        "name": "Laptop 710",
-        "description": "High performance laptop",
-        "price": 291.25,
-        "image_url": "https://example.com/laptop.jpg",
-        "quantity": 19,
-        "created_at": "2025-07-03T21:00:00"
-    },
-    {
-        "id": 21,
-        "name": "Chair 436",
-        "description": "Ergonomic gaming chair",
-        "price": 162.94,
-        "image_url": "https://example.com/chair.jpg",
-        "quantity": 20,
-        "created_at": "2025-07-04T00:00:00"
-    },
-    {
-        "id": 22,
-        "name": "Speakers 422",
-        "description": "2.1 speaker system",
-        "price": 177.32,
-        "image_url": "https://example.com/speakers.jpg",
-        "quantity": 33,
-        "created_at": "2025-07-04T03:00:00"
-    },
-    {
-        "id": 23,
-        "name": "Desk 460",
-        "description": "Adjustable height desk",
-        "price": 192.9,
-        "image_url": "https://example.com/desk.jpg",
-        "quantity": 37,
-        "created_at": "2025-07-04T06:00:00"
-    },
-    {
-        "id": 24,
-        "name": "Keyboard 202",
-        "description": "Mechanical keyboard with RGB",
-        "price": 155.14,
-        "image_url": "https://example.com/keyboard.jpg",
-        "quantity": 26,
-        "created_at": "2025-07-04T09:00:00"
-    },
-    {
-        "id": 25,
-        "name": "Chair 232",
-        "description": "Ergonomic gaming chair",
-        "price": 210.33,
-        "image_url": "https://example.com/chair.jpg",
-        "quantity": 39,
-        "created_at": "2025-07-04T12:00:00"
-    },
-    {
-        "id": 26,
-        "name": "Microphone 626",
-        "description": "Condenser microphone",
-        "price": 173.74,
-        "image_url": "https://example.com/microphone.jpg",
-        "quantity": 48,
-        "created_at": "2025-07-04T15:00:00"
-    },
-    {
-        "id": 27,
-        "name": "Mouse 956",
-        "description": "Precision optical mouse",
-        "price": 273.06,
-        "image_url": "https://example.com/mouse.jpg",
-        "quantity": 27,
-        "created_at": "2025-07-04T18:00:00"
-    },
-    {
-        "id": 28,
-        "name": "Chair 820",
-        "description": "Ergonomic gaming chair",
-        "price": 253.63,
-        "image_url": "https://example.com/chair.jpg",
-        "quantity": 37,
-        "created_at": "2025-07-04T21:00:00"
-    },
-    {
-        "id": 29,
-        "name": "Speakers 821",
-        "description": "2.1 speaker system",
-        "price": 155.02,
-        "image_url": "https://example.com/speakers.jpg",
-        "quantity": 31,
-        "created_at": "2025-07-05T00:00:00"
-    },
-    {
-        "id": 30,
-        "name": "Headset 703",
-        "description": "Surround sound gaming headset",
-        "price": 55.68,
-        "image_url": "https://example.com/headset.jpg",
-        "quantity": 37,
-        "created_at": "2025-07-05T03:00:00"
-    },
-    {
-        "id": 31,
-        "name": "Chair 956",
-        "description": "Ergonomic gaming chair",
-        "price": 129.26,
-        "image_url": "https://example.com/chair.jpg",
-        "quantity": 10,
-        "created_at": "2025-07-05T06:00:00"
-    },
-    {
-        "id": 32,
-        "name": "Chair 985",
-        "description": "Ergonomic gaming chair",
-        "price": 43.94,
-        "image_url": "https://example.com/chair.jpg",
-        "quantity": 33,
-        "created_at": "2025-07-05T09:00:00"
-    },
-    {
-        "id": 33,
-        "name": "Webcam 430",
-        "description": "HD webcam with microphone",
-        "price": 189.78,
-        "image_url": "https://example.com/webcam.jpg",
-        "quantity": 25,
-        "created_at": "2025-07-05T12:00:00"
-    },
-    {
-        "id": 34,
-        "name": "Microphone 720",
-        "description": "Condenser microphone",
-        "price": 176.07,
-        "image_url": "https://example.com/microphone.jpg",
-        "quantity": 8,
-        "created_at": "2025-07-05T15:00:00"
-    },
-    {
-        "id": 35,
-        "name": "Microphone 132",
-        "description": "Condenser microphone",
-        "price": 125.33,
-        "image_url": "https://example.com/microphone.jpg",
-        "quantity": 26,
-        "created_at": "2025-07-05T18:00:00"
-    },
-    {
-        "id": 36,
-        "name": "Chair 698",
-        "description": "Ergonomic gaming chair",
-        "price": 260.59,
-        "image_url": "https://example.com/chair.jpg",
-        "quantity": 46,
-        "created_at": "2025-07-05T21:00:00"
-    },
-    {
-        "id": 37,
-        "name": "Desk 689",
-        "description": "Adjustable height desk",
-        "price": 241.05,
-        "image_url": "https://example.com/desk.jpg",
-        "quantity": 40,
-        "created_at": "2025-07-06T00:00:00"
-    },
-    {
-        "id": 38,
-        "name": "Speakers 948",
-        "description": "2.1 speaker system",
-        "price": 288.47,
-        "image_url": "https://example.com/speakers.jpg",
-        "quantity": 40,
-        "created_at": "2025-07-06T03:00:00"
-    },
-    {
-        "id": 39,
-        "name": "Mouse 324",
-        "description": "Precision optical mouse",
-        "price": 134.8,
-        "image_url": "https://example.com/mouse.jpg",
-        "quantity": 25,
-        "created_at": "2025-07-06T06:00:00"
-    },
-    {
-        "id": 40,
-        "name": "Desk 733",
-        "description": "Adjustable height desk",
-        "price": 134.38,
-        "image_url": "https://example.com/desk.jpg",
-        "quantity": 14,
-        "created_at": "2025-07-06T09:00:00"
-    },
-    {
-        "id": 41,
-        "name": "Laptop 149",
-        "description": "High performance laptop",
-        "price": 159.91,
-        "image_url": "https://example.com/laptop.jpg",
-        "quantity": 11,
-        "created_at": "2025-07-06T12:00:00"
-    },
-    {
-        "id": 42,
-        "name": "Laptop 981",
-        "description": "High performance laptop",
-        "price": 267.68,
-        "image_url": "https://example.com/laptop.jpg",
-        "quantity": 13,
-        "created_at": "2025-07-06T15:00:00"
-    },
-    {
-        "id": 43,
-        "name": "Chair 473",
-        "description": "Ergonomic gaming chair",
-        "price": 122.9,
-        "image_url": "https://example.com/chair.jpg",
-        "quantity": 6,
-        "created_at": "2025-07-06T18:00:00"
-    },
-    {
-        "id": 44,
-        "name": "Desk 177",
-        "description": "Adjustable height desk",
-        "price": 141.43,
-        "image_url": "https://example.com/desk.jpg",
-        "quantity": 40,
-        "created_at": "2025-07-06T21:00:00"
-    },
-    {
-        "id": 45,
-        "name": "Headset 747",
-        "description": "Surround sound gaming headset",
-        "price": 52.99,
-        "image_url": "https://example.com/headset.jpg",
-        "quantity": 38,
-        "created_at": "2025-07-07T00:00:00"
-    },
-    {
-        "id": 46,
-        "name": "Keyboard 194",
-        "description": "Mechanical keyboard with RGB",
-        "price": 281.65,
-        "image_url": "https://example.com/keyboard.jpg",
-        "quantity": 0,
-        "created_at": "2025-07-07T03:00:00"
-    },
-    {
-        "id": 47,
-        "name": "Webcam 713",
-        "description": "HD webcam with microphone",
-        "price": 172.06,
-        "image_url": "https://example.com/webcam.jpg",
-        "quantity": 40,
-        "created_at": "2025-07-07T06:00:00"
-    },
-    {
-        "id": 49,
-        "name": "Mouse 718",
-        "description": "Precision optical mouse",
-        "price": 27.85,
-        "image_url": "https://example.com/mouse.jpg",
-        "quantity": 48,
-        "created_at": "2025-07-07T12:00:00"
-    },
-    {
-        "id": 50,
-        "name": "Webcam 132",
-        "description": "HD webcam with microphone",
-        "price": 254.59,
-        "image_url": "https://example.com/webcam.jpg",
-        "quantity": 3,
-        "created_at": "2025-07-07T15:00:00"
-    },
-    {
-        "id": 51,
-        "name": "Gaming Mouse2",
-        "description": "High-precision wireless mouse",
-        "price": 49.99,
-        "image_url": "https://example.com/images/mouse.jpg",
-        "quantity": 2,
-        "created_at": "2025-07-23 16:30:00"
-    }
+  {
+    "id": 1,
+    "name": "Webcam 311",
+    "description": "HD webcam with microphone",
+    "price": 274.5,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71c8tgvWlWL._AC_SL1500_.jpg",
+    "quantity": 39,
+    "created_at": "2025-07-01T12:00:00"
+  },
+  {
+    "id": 2,
+    "name": "Laptop 638",
+    "description": "High performance laptop",
+    "price": 38.41,
+    "image_url": "https://via.placeholder.com/300x200.png?text=High+Performance+Laptop",
+    "quantity": 3,
+    "created_at": "2025-07-01T15:00:00"
+  },
+  {
+    "id": 3,
+    "name": "Laptop 722",
+    "description": "High performance laptop",
+    "price": 65.27,
+    "image_url": "https://via.placeholder.com/300x200.png?text=High+Performance+Laptop",
+    "quantity": 2,
+    "created_at": "2025-07-01T18:00:00"
+  },
+  {
+    "id": 4,
+    "name": "Webcam 952",
+    "description": "HD webcam with microphone",
+    "price": 265.68,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81f-5BwNGrL._AC_SL1500_.jpg",
+    "quantity": 45,
+    "created_at": "2025-07-01T21:00:00"
+  },
+  {
+    "id": 5,
+    "name": "Chair 112",
+    "description": "Ergonomic gaming chair",
+    "price": 95.35,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Ergonomic+Gaming+Chair",
+    "quantity": 49,
+    "created_at": "2025-07-02T00:00:00"
+  },
+  {
+    "id": 6,
+    "name": "Chair 399",
+    "description": "Ergonomic gaming chair",
+    "price": 149.37,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Ergonomic+Gaming+Chair",
+    "quantity": 38,
+    "created_at": "2025-07-02T03:00:00"
+  },
+  {
+    "id": 7,
+    "name": "Speakers 191",
+    "description": "2.1 speaker system",
+    "price": 143.18,
+    "image_url": "https://via.placeholder.com/300x200.png?text=2.1+Speaker+System",
+    "quantity": 25,
+    "created_at": "2025-07-02T06:00:00"
+  },
+  {
+    "id": 8,
+    "name": "Microphone 832",
+    "description": "Condenser microphone",
+    "price": 36.08,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Condenser+Microphone",
+    "quantity": 14,
+    "created_at": "2025-07-02T09:00:00"
+  },
+  {
+    "id": 9,
+    "name": "Webcam 984",
+    "description": "HD webcam with microphone",
+    "price": 174.25,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71c8tgvWlWL._AC_SL1500_.jpg",
+    "quantity": 21,
+    "created_at": "2025-07-02T12:00:00"
+  },
+  {
+    "id": 10,
+    "name": "Chair 324",
+    "description": "Ergonomic gaming chair",
+    "price": 230.5,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Ergonomic+Gaming+Chair",
+    "quantity": 24,
+    "created_at": "2025-07-02T15:00:00"
+  },
+  {
+    "id": 11,
+    "name": "Speakers 494",
+    "description": "2.1 speaker system",
+    "price": 152.62,
+    "image_url": "https://via.placeholder.com/300x200.png?text=2.1+Speaker+System",
+    "quantity": 41,
+    "created_at": "2025-07-02T18:00:00"
+  },
+  {
+    "id": 12,
+    "name": "Headset 469",
+    "description": "Surround sound gaming headset",
+    "price": 280.18,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Gaming+Headset",
+    "quantity": 46,
+    "created_at": "2025-07-02T21:00:00"
+  },
+  {
+    "id": 13,
+    "name": "Mouse 408",
+    "description": "Precision optical mouse",
+    "price": 296.16,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Optical+Mouse",
+    "quantity": 26,
+    "created_at": "2025-07-03T00:00:00"
+  },
+  {
+    "id": 14,
+    "name": "Keyboard 438",
+    "description": "Mechanical keyboard with RGB",
+    "price": 228.51,
+    "image_url": "https://via.placeholder.com/300x200.png?text=RGB+Mechanical+Keyboard",
+    "quantity": 45,
+    "created_at": "2025-07-03T03:00:00"
+  },
+  {
+    "id": 15,
+    "name": "Chair 431",
+    "description": "Ergonomic gaming chair",
+    "price": 151.14,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Ergonomic+Gaming+Chair",
+    "quantity": 14,
+    "created_at": "2025-07-03T06:00:00"
+  },
+  {
+    "id": 16,
+    "name": "Speakers 170",
+    "description": "2.1 speaker system",
+    "price": 232.23,
+    "image_url": "https://via.placeholder.com/300x200.png?text=2.1+Speaker+System",
+    "quantity": 16,
+    "created_at": "2025-07-03T09:00:00"
+  },
+  {
+    "id": 17,
+    "name": "Chair 226",
+    "description": "Ergonomic gaming chair",
+    "price": 106.27,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Ergonomic+Gaming+Chair",
+    "quantity": 43,
+    "created_at": "2025-07-03T12:00:00"
+  },
+  {
+    "id": 18,
+    "name": "Desk 747",
+    "description": "Adjustable height desk",
+    "price": 20.2,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Adjustable+Height+Desk",
+    "quantity": 48,
+    "created_at": "2025-07-03T15:00:00"
+  },
+  {
+    "id": 19,
+    "name": "Speakers 201",
+    "description": "2.1 speaker system",
+    "price": 250.66,
+    "image_url": "https://via.placeholder.com/300x200.png?text=2.1+Speaker+System",
+    "quantity": 15,
+    "created_at": "2025-07-03T18:00:00"
+  },
+  {
+    "id": 20,
+    "name": "Laptop 710",
+    "description": "High performance laptop",
+    "price": 291.25,
+    "image_url": "https://via.placeholder.com/300x200.png?text=High+Performance+Laptop",
+    "quantity": 19,
+    "created_at": "2025-07-03T21:00:00"
+  },
+  {
+    "id": 21,
+    "name": "Chair 436",
+    "description": "Ergonomic gaming chair",
+    "price": 162.94,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Ergonomic+Gaming+Chair",
+    "quantity": 20,
+    "created_at": "2025-07-04T00:00:00"
+  },
+  {
+    "id": 22,
+    "name": "Speakers 422",
+    "description": "2.1 speaker system",
+    "price": 177.32,
+    "image_url": "https://via.placeholder.com/300x200.png?text=2.1+Speaker+System",
+    "quantity": 33,
+    "created_at": "2025-07-04T03:00:00"
+  },
+  {
+    "id": 23,
+    "name": "Desk 460",
+    "description": "Adjustable height desk",
+    "price": 192.9,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Adjustable+Height+Desk",
+    "quantity": 37,
+    "created_at": "2025-07-04T06:00:00"
+  },
+  {
+    "id": 24,
+    "name": "Keyboard 202",
+    "description": "Mechanical keyboard with RGB",
+    "price": 155.14,
+    "image_url": "https://via.placeholder.com/300x200.png?text=RGB+Mechanical+Keyboard",
+    "quantity": 26,
+    "created_at": "2025-07-04T09:00:00"
+  },
+  {
+    "id": 25,
+    "name": "Chair 232",
+    "description": "Ergonomic gaming chair",
+    "price": 210.33,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Ergonomic+Gaming+Chair",
+    "quantity": 39,
+    "created_at": "2025-07-04T12:00:00"
+  },
+  {
+    "id": 26,
+    "name": "Microphone 626",
+    "description": "Condenser microphone",
+    "price": 173.74,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Condenser+Microphone",
+    "quantity": 48,
+    "created_at": "2025-07-04T15:00:00"
+  },
+  {
+    "id": 27,
+    "name": "Mouse 956",
+    "description": "Precision optical mouse",
+    "price": 273.06,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Optical+Mouse",
+    "quantity": 27,
+    "created_at": "2025-07-04T18:00:00"
+  },
+  {
+    "id": 28,
+    "name": "Chair 820",
+    "description": "Ergonomic gaming chair",
+    "price": 253.63,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Ergonomic+Gaming+Chair",
+    "quantity": 37,
+    "created_at": "2025-07-04T21:00:00"
+  },
+  {
+    "id": 29,
+    "name": "Speakers 821",
+    "description": "2.1 speaker system",
+    "price": 155.02,
+    "image_url": "https://via.placeholder.com/300x200.png?text=2.1+Speaker+System",
+    "quantity": 31,
+    "created_at": "2025-07-05T00:00:00"
+  },
+  {
+    "id": 30,
+    "name": "Headset 703",
+    "description": "Surround sound gaming headset",
+    "price": 55.68,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Gaming+Headset",
+    "quantity": 37,
+    "created_at": "2025-07-05T03:00:00"
+  },
+  {
+    "id": 31,
+    "name": "Chair 956",
+    "description": "Ergonomic gaming chair",
+    "price": 129.26,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Ergonomic+Gaming+Chair",
+    "quantity": 10,
+    "created_at": "2025-07-05T06:00:00"
+  },
+  {
+    "id": 32,
+    "name": "Chair 985",
+    "description": "Ergonomic gaming chair",
+    "price": 43.94,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Ergonomic+Gaming+Chair",
+    "quantity": 33,
+    "created_at": "2025-07-05T09:00:00"
+  },
+  {
+    "id": 33,
+    "name": "Webcam 430",
+    "description": "HD webcam with microphone",
+    "price": 189.78,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81f-5BwNGrL._AC_SL1500_.jpg",
+    "quantity": 25,
+    "created_at": "2025-07-05T12:00:00"
+  },
+  {
+    "id": 34,
+    "name": "Microphone 720",
+    "description": "Condenser microphone",
+    "price": 176.07,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Condenser+Microphone",
+    "quantity": 8,
+    "created_at": "2025-07-05T15:00:00"
+  },
+  {
+    "id": 35,
+    "name": "Microphone 132",
+    "description": "Condenser microphone",
+    "price": 125.33,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Condenser+Microphone",
+    "quantity": 26,
+    "created_at": "2025-07-05T18:00:00"
+  },
+  {
+    "id": 36,
+    "name": "Chair 698",
+    "description": "Ergonomic gaming chair",
+    "price": 260.59,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Ergonomic+Gaming+Chair",
+    "quantity": 46,
+    "created_at": "2025-07-05T21:00:00"
+  },
+  {
+    "id": 37,
+    "name": "Desk 689",
+    "description": "Adjustable height desk",
+    "price": 241.05,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Adjustable+Height+Desk",
+    "quantity": 40,
+    "created_at": "2025-07-06T00:00:00"
+  },
+  {
+    "id": 38,
+    "name": "Speakers 948",
+    "description": "2.1 speaker system",
+    "price": 288.47,
+    "image_url": "https://via.placeholder.com/300x200.png?text=2.1+Speaker+System",
+    "quantity": 40,
+    "created_at": "2025-07-06T03:00:00"
+  },
+  {
+    "id": 39,
+    "name": "Mouse 324",
+    "description": "Precision optical mouse",
+    "price": 134.8,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Optical+Mouse",
+    "quantity": 25,
+    "created_at": "2025-07-06T06:00:00"
+  },
+  {
+    "id": 40,
+    "name": "Desk 733",
+    "description": "Adjustable height desk",
+    "price": 134.38,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Adjustable+Height+Desk",
+    "quantity": 14,
+    "created_at": "2025-07-06T09:00:00"
+  },
+  {
+    "id": 41,
+    "name": "Laptop 149",
+    "description": "High performance laptop",
+    "price": 159.91,
+    "image_url": "https://via.placeholder.com/300x200.png?text=High+Performance+Laptop",
+    "quantity": 11,
+    "created_at": "2025-07-06T12:00:00"
+  },
+  {
+    "id": 42,
+    "name": "Laptop 981",
+    "description": "High performance laptop",
+    "price": 267.68,
+    "image_url": "https://via.placeholder.com/300x200.png?text=High+Performance+Laptop",
+    "quantity": 13,
+    "created_at": "2025-07-06T15:00:00"
+  },
+  {
+    "id": 43,
+    "name": "Chair 473",
+    "description": "Ergonomic gaming chair",
+    "price": 122.9,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Ergonomic+Gaming+Chair",
+    "quantity": 6,
+    "created_at": "2025-07-06T18:00:00"
+  },
+  {
+    "id": 44,
+    "name": "Desk 177",
+    "description": "Adjustable height desk",
+    "price": 141.43,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Adjustable+Height+Desk",
+    "quantity": 40,
+    "created_at": "2025-07-06T21:00:00"
+  },
+  {
+    "id": 45,
+    "name": "Headset 747",
+    "description": "Surround sound gaming headset",
+    "price": 52.99,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Gaming+Headset",
+    "quantity": 38,
+    "created_at": "2025-07-07T00:00:00"
+  },
+  {
+    "id": 46,
+    "name": "Keyboard 194",
+    "description": "Mechanical keyboard with RGB",
+    "price": 281.65,
+    "image_url": "https://via.placeholder.com/300x200.png?text=RGB+Mechanical+Keyboard",
+    "quantity": 0,
+    "created_at": "2025-07-07T03:00:00"
+  },
+  {
+    "id": 47,
+    "name": "Webcam 713",
+    "description": "HD webcam with microphone",
+    "price": 172.06,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71c8tgvWlWL._AC_SL1500_.jpg",
+    "quantity": 40,
+    "created_at": "2025-07-07T06:00:00"
+  },
+  {
+    "id": 49,
+    "name": "Mouse 718",
+    "description": "Precision optical mouse",
+    "price": 27.85,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Optical+Mouse",
+    "quantity": 48,
+    "created_at": "2025-07-07T12:00:00"
+  },
+  {
+    "id": 50,
+    "name": "Webcam 132",
+    "description": "HD webcam with microphone",
+    "price": 254.59,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81f-5BwNGrL._AC_SL1500_.jpg",
+    "quantity": 3,
+    "created_at": "2025-07-07T15:00:00"
+  },
+  {
+    "id": 51,
+    "name": "Gaming Mouse2",
+    "description": "High-precision wireless mouse",
+    "price": 49.99,
+    "image_url": "https://via.placeholder.com/300x200.png?text=Wireless+Gaming+Mouse",
+    "quantity": 2,
+    "created_at": "2025-07-23T16:30:00"
+  }
 ]
